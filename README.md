@@ -1,5 +1,5 @@
 # Rajan Gupta
-## 💻 Software Engineer | 🌐 Full Stack Developer | 📊 Data Enthusiast
+## 💻 Software Engineer | 🌐 Backend Developer | 📊 Data Enthusiast
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Software+Engineer;Data+Analysis+Enthusiast;Passionate+Learner;Problem+Solver" alt="Typing SVG" />
